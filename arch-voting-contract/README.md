@@ -1,4 +1,4 @@
-# Arch Voting Contract
+# Arch Ballot Contract
 
 A decentralized voting smart contract for the Arch Ecosystem that enables users to create polls, cast votes securely, and view transparent results.
 
