@@ -1,0 +1,1 @@
+/home/benjamin/arch-vote/arch-voting-contract/target/debug/libarch_voting_contract.rlib: /home/benjamin/arch-vote/arch-voting-contract/src/contract.rs /home/benjamin/arch-vote/arch-voting-contract/src/errors.rs /home/benjamin/arch-vote/arch-voting-contract/src/lib.rs /home/benjamin/arch-vote/arch-voting-contract/src/models.rs

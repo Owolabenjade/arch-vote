@@ -1,0 +1,18 @@
+[package]
+name = "arch-voting-contract"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "A decentralized voting smart contract for the Arch Ecosystem"
+license = "MIT"
+repository = "https://github.com/yourusername/arch-voting-contract"
+
+[dependencies]
+# No external dependencies for now, but you might add blockchain-specific
+# dependencies based on the target platform (e.g., Solana, Substrate, etc.)
+
+[dev-dependencies]
+# Add any testing dependencies here if needed
+
+[lib]
+crate-type = ["cdylib", "lib"]
